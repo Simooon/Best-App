@@ -27,7 +27,7 @@
 ★★★★☆  | 暂无 ([评级说明](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 四星半付费 App |  |
 ★★★★  | [Camera+] | 替代原生拍照软件 | $1.99 | [#](http://iphone.appstorm.net/reviews/graphics/camera-4-an-almost-perfect-camera-app/)
 ★★★★  | [1Password] | 密码管理&同步 | $17.99 | [#](http://mac.appstorm.net/reviews/security/1password-4-is-hands-down-the-best-password-app/)
-★★★★  | [Tweetbot] | Twitter 客户端 | $2.99 | [#](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/)
+★★★★  | [Tweetbot] | Twitter 客户端 | $4.99 | [#](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/)
 ★★★★  | [Weico Pro] | 新浪微博第三方客户端 | ￥6 | [#](http://sspai.com/24186)
 ★★★★  | [iTranslate Voice] | 翻译利器 | $4.99 | [#](http://www.idownloadblog.com/2013/07/03/itranslate-voice-2/)
 ★★★★  | [Launch Center Pro] | 快速启动&书签 | $4.99 | [#](http://www.macstories.net/reviews/launch-center-pro-2-0-review/)
